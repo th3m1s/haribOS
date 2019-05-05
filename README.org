@@ -1,2 +1,2 @@
-# haribOS
+* haribOS
 hariboteOS for linux
